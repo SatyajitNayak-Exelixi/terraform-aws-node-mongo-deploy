@@ -151,10 +151,6 @@ Infrastructure deployed successfully. The ALB DNS name provides access to your a
 
 ---
 
-## 🌐 Step 4 & Step 5 — Access and Verify Application
-
----
-
 ### 🌐 Step 4: Access the Application
 
 Once Terraform deployment is complete, you can access the running **Node.js + MongoDB** app via the **ALB DNS name** output.
