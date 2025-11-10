@@ -1,11 +1,6 @@
+# ECS EC2 vs ECS Fargate — Comparison 
 
----
-
-# 5) ecs-ec2-vs-fargate.md (short comparison)
-
-Create `ecs-ec2-vs-fargate.md`:
 ```markdown
-# ECS EC2 vs ECS Fargate — Comparison (for this Node.js + MongoDB deployment)
 
 ## 1. Cost
 - **EC2**: You control instance types and can use Reserved/Spot instances. Better for long-running, predictable workloads; more cost-efficient at scale with rightsizing.
