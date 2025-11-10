@@ -1,9 +1,5 @@
 # 🚀 Terraform AWS Node.js + MongoDB Deployment
 
-### Deploy a Node.js + MongoDB on AWS ECS (EC2) - Using Terraform.
-
----
-
 ## 🌍 Overview
 
 This project deploys a **containerized Node.js REST API** connected to a **self-managed MongoDB** database running on an **EC2 instance**, orchestrated via **AWS ECS (EC2 launch type)**.
